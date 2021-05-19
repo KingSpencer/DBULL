@@ -27,7 +27,6 @@ chmod +x run_dp.bash
 ## Citing the paper
 This paper is still under review. Once the paper gets published, we will update the citation correspondingly.
 
-```
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
